@@ -35,7 +35,7 @@
 - [Rehabman Bitbucket](https://bitbucket.org/RehabMan/)
 - [PCbeta](http://mac.pcbeta.com/)
 - [iMacHK](https://imac.hk/)
-
+- [InsInsanelyMac](https://www.insanelymac.com/)
 ### Github 上一些贡献者的配置
 
 - [Acer Aspire E1-471G](https://github.com/matthew728960/Clover-ACER-E1-471G)
